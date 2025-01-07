@@ -2,6 +2,9 @@
 
 **A passionate coder and second year B.Tech undergraduate student at Sitare University**  
 
+### 🔥 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=rashu-2375&color=blue&style=flat)
+
 🌟 **About Me:**
 - 🔭 Currently learning advanced Python, advanced DSA ,and web development(full stack).
 - 👀 I’m interested in to solve problem with logical reasoning.
@@ -29,6 +32,11 @@
 - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellijidea&logoColor=white)
 - ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+- ### 📊 Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashu-2375&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 🏆 **GitHub Stats:**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashu-2375&show_icons=true&theme=radical)
